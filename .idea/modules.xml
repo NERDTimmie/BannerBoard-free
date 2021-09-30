@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BannerBoard_plugin/BannerBoard.iml" filepath="$PROJECT_DIR$/BannerBoard_plugin/BannerBoard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/BannerBoard-free.iml" filepath="$PROJECT_DIR$/.idea/BannerBoard-free.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BannerBoard_API/bannerboard.iml" filepath="$PROJECT_DIR$/BannerBoard_API/bannerboard.iml" />
+    </modules>
+  </component>
+</project>
